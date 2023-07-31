@@ -1,6 +1,6 @@
 # Huddle Website without Curved Sections
 
-![Image not available]()
+![Image not available](https://github.com/Am00rcode/huddle-Website/blob/main/Template-1/huddle-landing-page-with-alternating-feature-blocks-master/design/desktop-preview.jpg?raw=true)
 
 ### About the Challenge
 
